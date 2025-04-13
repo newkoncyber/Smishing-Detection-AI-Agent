@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Smishing Detection AI Agent is a web application that utilizes machine learning to identify smishing (SMS phishing) messages. It allows users to submit SMS messages for analysis and receive predictions on whether the messages are smishing attempts or not. This project is built using Python and Flask, incorporating machine learning techniques for text classification.
+The Smishing (SMS Phishing) Detection AI Agent is a web application that utilizes machine learning to identify smishing messages. It allows users to submit SMS messages for analysis and receive predictions on whether the messages are smishing attempts or not. This project is built using Python and Flask, incorporating machine learning techniques for text classification.
 
 ## Table of Contents
 
